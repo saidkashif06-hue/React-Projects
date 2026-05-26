@@ -6,7 +6,7 @@ import SafeHouse_logo from '../assets/SafeHouse_logo.png'
 import gta6_img from '../assets/gta6.png'
 import gta6_logo from '../assets/gta6_logo.png'
 import redredemption from '../assets/redredemption.png'
-import redredemption2_logo from '../assets/redredemption2_logo.png'
+import redredemption2_logo from '../assets/redRedemption2_logo.png'
 import gta_card_1 from '../assets/gta_card_1.jpg'
 import gta_card_2 from '../assets/gta_card_2.jpg'
 import gta_card_3 from '../assets/gta_card_3.jpg'
@@ -42,7 +42,7 @@ import card_17 from '../assets/card_17.jpg'
 import card_18 from '../assets/card_18.jpg'
 import card_19 from '../assets/card_19.jpg'
 import card_20 from '../assets/card_20.jpg'
-import propa from '../assets/propa.png'
+import propa from '../assets/Propa.png'
 
 export const assets = {
     logo,
